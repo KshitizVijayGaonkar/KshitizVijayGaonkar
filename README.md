@@ -30,4 +30,5 @@ Coding with a bit of pun.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/atomsempai" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/atomsempai" target="_blank" rel="noreferrer"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://youtube.com/@nobullshitentertainment" target="_blank" rel="noreferrer"><img src="https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png" width="32" height="32" /></a></p>
