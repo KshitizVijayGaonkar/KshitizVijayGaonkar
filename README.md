@@ -1,4 +1,4 @@
-Hi 👋 My name is Kshitiz Vijay Gaonkar
+Hello 👋 My name is Kshitiz 
 ======================================
 
 Full Stack Developer
