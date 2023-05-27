@@ -1,4 +1,4 @@
-Hello <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="Hi" width="50" height="50"> My name is Kshitiz 
+Hello <img src="https://media.tenor.com/Wx9IEmZZXSoAAAAj/hi.gif" alt="Hi" width="40" height="40"> My name is Kshitiz 
 ======================================
 
 Full Stack Developer
